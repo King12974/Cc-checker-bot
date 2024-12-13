@@ -9,10 +9,10 @@ from utilsdf.functions import bot_on
 from utilsdf.db import Database
 from utilsdf.vars import PREFIXES
     
-API_ID = '28386099'
-API_HASH = 'a0057fbf1ca49ce5e9d26fd4afd6e78b'
-BOT_TOKEN = '7195738934:AAE5ifhCN-JFDQ7aHjuioFWbi_4GgY9Noug'
-CHANNEL_LOGS = '-1001897182152'
+API_ID = '26550549'
+API_HASH = '4c7e2891cffad37ff8cc42f6ec9c3e5d'
+BOT_TOKEN = '7631252012:AAGVJkeU_JOyZHgk1LWM2jdSSuAfeWzG44o'
+CHANNEL_LOGS = '-1002281220819'
 
 app = Client(
     "bot",
