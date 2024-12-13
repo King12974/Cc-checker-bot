@@ -8,10 +8,10 @@ from os import getenv
 
 class Database:
     _instance = None
-    BOT_TABLE = "bot"
-    BOT_KEYS_TABLE = "bot_keys"
-    BOT_GROUPS = "groups"
-    ID_OWNER = '1718738592'
+    BOT_TABLE = "arman"
+    BOT_KEYS_TABLE = "Armankhan#1"
+    BOT_GROUPS = "-4637064577"
+    ID_OWNER = '5367636387'
 
     def __new__(cls):
         if cls._instance is None:
